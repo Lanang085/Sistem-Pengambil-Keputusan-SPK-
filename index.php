@@ -173,7 +173,7 @@
       <ul class="navbar">
         <li class="left-navbar name">
             <a>
-                <span>SPK BESTIE | A20051397053</span>
+                <span>Lanang Gigih | A20051397053</span>
             </a>
         </li>
         <li class="left-navbar">
@@ -262,6 +262,8 @@
               <td>
                 Jika UKT <span style="color:#583d72;"><b>mahal</b></span> dan IPK <span style="color:#583d72;"><b>sangat baik</b></span>, maka beasiswa <span style="color:#583d72;"><b>besar</b></span>.
               </td>
+              <hr>
+          <hr>
             </tr>
           </table>
         <center>
